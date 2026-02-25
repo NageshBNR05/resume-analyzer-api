@@ -4,7 +4,7 @@
 
 **## 📌 Project Description**
 
-**The Resume AI Analyzer is a backend AI-based application built using FastAPI and Python.**  
+**The Resume AI Analyzer is a backend AI-based application built using FastAPI and Python.**
 
 **This project helps analyze resumes using NLP-based similarity matching techniques and provides AI-based feedback based on job descriptions.**
 
@@ -20,15 +20,15 @@
 
 **## ⭐ Features**
 
-**✅ User Authentication (Register \& Login)**  
+**✅ User Authentication (Register \& Login)**
 
-**✅ Resume File Upload System**  
+**✅ Resume File Upload System**
 
-**✅ AI Resume Score Matching**  
+**✅ AI Resume Score Matching**
 
-**✅ Resume Feedback Suggestions**  
+**✅ Resume Feedback Suggestions**
 
-**✅ FastAPI Swagger Documentation**  
+**✅ FastAPI Swagger Documentation**
 
 
 
@@ -38,17 +38,17 @@
 
 **## 🛠 Tech Stack**
 
-**- Python**  
+**- Python**
 
-**- FastAPI**  
+**- FastAPI**
 
-**- Scikit-learn**  
+**- Scikit-learn**
 
-**- NLP Techniques**  
+**- NLP Techniques**
 
-**- OpenAI (Optional)**  
+**- OpenAI (Optional)**
 
-**- Git \& GitHub**  
+**- Git \& GitHub**
 
 
 
@@ -142,13 +142,13 @@
 
 **## 📌 API Endpoints**
 
-**POST /register → User Registration**  
+**POST /register → User Registration**
 
-**POST /login → User Login**  
+**POST /login → User Login**
 
-**POST /upload-resume-ai → Resume Analysis**  
+**POST /upload-resume-ai → Resume Analysis**
 
-**POST /resume-feedback → AI Feedback**  
+**POST /resume-feedback → AI Feedback**
 
 
 
@@ -158,13 +158,13 @@
 
 **## 🎯 Future Improvements**
 
-**🚀 Resume Chatbot AI**  
+**🚀 Resume Chatbot AI**
 
-**🚀 Job Recommendation Engine**  
+**🚀 Job Recommendation Engine**
 
-**🚀 Resume Database Storage**  
+**🚀 Resume Database Storage**
 
-**🚀 Frontend Dashboard**  
+**🚀 Frontend Dashboard**
 
 
 
@@ -174,7 +174,7 @@
 
 **## 👨‍💻 Developer**
 
-**Bantu Nageswara Rao**  
+**Bantu Nageswara Rao**
 
 **B.Tech CSE (AI)**
 
@@ -187,6 +187,4 @@
 **## ⭐ Support**
 
 **If you like this project, please give ⭐ to the repository.**
-
-
 
